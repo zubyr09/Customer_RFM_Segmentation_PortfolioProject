@@ -1,6 +1,6 @@
 # Customer RFM Segmentation Portfolio Project
 
-This is a data science project for customer segmentation using RFM (Recency, Frequency, Monetary) analysis. The project uses the "Superstore Sales Data.csv" dataset to segment customers based on their purchasing behavior. The dataset contains 9426 records, and the analysis is carried out using MySQL Workbench.
+This is a Data Science project for customer segmentation using RFM (Recency, Frequency, Monetary) analysis. The project uses the "Superstore Sales Data.csv" dataset to segment customers based on their purchasing behavior. The dataset contains 9426 records, and the analysis is carried out using MySQL Workbench.
 
 ## Project Overview
 
