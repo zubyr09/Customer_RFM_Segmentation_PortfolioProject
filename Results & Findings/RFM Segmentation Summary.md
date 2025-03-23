@@ -5,7 +5,7 @@ This document provides a summary of the RFM (Recency, Frequency, Monetary) segme
 
 ## RFM Segmentation Results
 
-| Customer Segment                     | Number of Customers | Average Monetary Value (BDT) |
+| Customer Segment                     | Number of Customers | Average Monetary Value |
 |--------------------------------------|---------------------|-----------------------------|
 | CHURNED CUSTOMER                     | 627                 | 256                         |
 | Other                                | 594                 | 2089                        |
